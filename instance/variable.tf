@@ -36,3 +36,7 @@ variable "availability_zone" {
     default = {}
   
 }
+
+variable "ssh_key_name" {
+    default = {}
+}
